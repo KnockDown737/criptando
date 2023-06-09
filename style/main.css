@@ -1,0 +1,104 @@
+
+body {
+
+ padding: 60px;
+ background-color: #ffce00;
+    
+}
+
+
+
+h1 {
+
+font-size: 45px;
+margin-left: 390px;
+color: #0375b4;
+
+}
+
+
+.main {
+
+padding: 20px;
+border-radius: 24px;
+width: fit-content;
+margin-top: 95px;
+margin-left: 191px;
+background-color: #0375b4;
+
+
+}
+
+textarea#en {
+
+    width: 959px;
+    height: 211px;
+    font-size: 30px;
+    margin-bottom: 42px;
+    padding: 20px;
+    border-radius: 5px;
+   
+
+
+}
+
+
+
+
+
+textarea#de {
+
+    width: 959px;
+    height: 211px;
+    font-size: 30px;
+    margin-top: 42px;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+.botoes {
+
+margin-left: 257px;
+
+}
+
+.btn-codificar{
+
+padding: 12px;
+height: 94px;
+width: 210px;
+margin-right: 20px;
+font-size: 25px;
+background-color: #ffce00;
+color: aliceblue;
+
+}
+
+.btn-codificar:active {
+
+background-color: aliceblue;
+color: #ffce00;
+
+}
+
+
+
+.btn-decodificar{
+
+padding: 12px;
+height: 94px;
+width: 210px;
+font-size: 25px;
+background-color: #ffce00;
+color: aliceblue;
+
+}
+
+.btn-decodificar:active {
+
+background-color: aliceblue;
+color: #ffce00;
+
+
+}
